@@ -106,6 +106,13 @@ Magic Blocks eg. Quagmire
 Magic Hats
 Magic Robes
 
+- - - - -
+Attributes
+- - - - -
+#Guilds
+ - Parties
+
+
 
 
 
