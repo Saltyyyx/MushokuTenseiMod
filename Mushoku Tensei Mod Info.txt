@@ -1,0 +1,113 @@
+Mushoku Tensei Mod
+- - - - - - - - - - - - - - - - -
+
+- - - - -
+Magic
+- - - - -
+#Attack
+ -Fire
+ -Earth
+ -Water
+ -Wind
+
+#Healing
+ -Shielding
+ -healing
+ -divine strike
+ -detoxification
+
+#summoning
+ -fields
+ - spirits
+
+#special
+ -teleport
+ -hypnosis
+ -reincarnation
+ -magic disruption (Ran Ma)
+ -Divination
+ -Gavity Manipulation
+
+#Casting Types
+- incantations
+- magic circles
+- silent spell casting
+
+
+#Ranks
+-1 Beginner/Elementary
+-2 Intermediate
+-3 Advanced
+-4 Saint/Holy
+-5 King
+-6 Imperial/Emperor
+-7 Divine / God
+
+- - - - -
+Sword Skills
+- - - - -
+#Sword God
+ - Arm Chop
+ - Longsword of Silence
+ - Light Reversal
+ - Longsword of Light
+
+ - #Water God
+ - Flow
+ - Five Secret Arts
+ -  Seprivation Sword Kingdom
+ - 
+
+ - #North God
+ -  Teardrop bullet
+ - Hazy Cross
+ - Four Legged Form
+ - Sword Throwing
+
+
+#Ranks
+-1 Beginner/Elementary
+-2 Intermediate
+-3 Advanced
+-4 Saint/Holy
+-5 King
+-6 Imperial/Emperor
+-7 Divine / God
+
+- - - - -
+Races
+- - - - -
+Human
+Dragon
+Elves
+Dwarves
+Demon Midguard/Supherd
+Beast - Cat/Dog/Rabbit/Fox
+Heaven
+
+- - - - -
+Gods (Powers)
+- - - - -
+Technique
+Dragon
+Fighting (Battle)
+Demon (Magic)
+Death
+Sword
+North
+
+- - - - -
+Items
+- - - - -
+Wands
+Staffs
+Swords
+Magic Blocks eg. Quagmire
+Magic Hats
+Magic Robes
+
+
+
+
+Sources:
+https://mushokutensei.fandom.com/wiki/Mushoku_Tensei_Wiki
